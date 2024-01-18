@@ -1,5 +1,9 @@
 Apple
+<<<<<<< HEAD
 Banyan
+=======
+Baobab
+>>>>>>> alternative
 Cherry
 Dogwood
 Elder
